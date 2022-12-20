@@ -2,7 +2,7 @@ package MatrixLab;
 
 /** The View class of this basic MVC
  * @author Michael Nguyen Fall 2022
- * Some parts of this code was taken from Dr. Sanchez's examples.
+ * Some parts of this code was taken from Dr. Antonio Sanchez.
  */
 
 import java.awt.Color;
